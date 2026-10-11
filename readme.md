@@ -5,8 +5,8 @@
 
 ### Install Alpine
 
-*
-*
+* Download the correct iso
+* Burn the iso to a PEN USB doas dd if=Image.iso of=/dev/"usbdevice"
 
 ### Install Bash
 
@@ -15,7 +15,7 @@
 
 ### Install Wayland
 
-*
+* doas setup-wayland-base
 *
 
 ### Install MAngoWM
