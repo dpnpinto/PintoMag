@@ -21,4 +21,6 @@
 ### Install MangoWM
 
 * doas apk add mangowm
-*
+* mkdir -p ~/.config/mango
+* PintoMAG:~$ cp /etc/mango/config.conf ~/.config/mango/config.conf
+
