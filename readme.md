@@ -18,7 +18,7 @@
 * doas setup-wayland-base
 *
 
-### Install MAngoWM
+### Install MangoWM
 
-*
+* doas apk add mangowm
 *
