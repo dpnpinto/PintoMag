@@ -1,1 +1,1 @@
-# MAgalhães Computer A La Pinto
+# Magalhães Computer a la Pinto
