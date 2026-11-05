@@ -24,7 +24,7 @@
 
 * doas setup-xorg-base
 
-### Tweak some styuff
+### Tweak some stuff
 
 * 
 
