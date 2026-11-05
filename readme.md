@@ -5,8 +5,9 @@
 
 ### Install Alpine
 
-* Download the correct iso
-* Burn the iso to a PEN USB doas dd if=Image.iso of=/dev/"usbdevice"
+* Go to alpine site - https://www.alpinelinux.org
+* Download the correct iso - https://www.alpinelinux.org/downloads/
+* Burn the iso to a PEN USB - sudo dd status=progress conv=fsync if=Image.iso of=/dev/"usbdevice"
 
 ### Install Bash
 
