@@ -32,12 +32,12 @@
 
 ### Install X.org
 
-* doas setup-xorg-base
-
-### Tweak some stuff
-
-* 
+* Alpine have a nice script -doas setup-xorg-base
 
 ### Install Pinto DWM, ST and DWMBlocks
 
-* 
+* Install git - doas apk add git
+* clone my repository -
+* Install may DWM, ST ,DWMBlocks and some stuff
+
+
