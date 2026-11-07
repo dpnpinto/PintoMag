@@ -28,7 +28,7 @@
 ### Install Bash
 
 * doas apk add bash
-* doas usermod -s /bin/bash $user
+* edit user name and sett the shel to bash - /bin_/bash
 
 ### Install X.org
 
