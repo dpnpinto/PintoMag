@@ -13,7 +13,17 @@
 
 * Boot from the pre made usb
 * Login with user root and no passwd
-* Run the setup script of Alpine Linux - setup-alpine 
+* Run the setup script of Alpine Linux - setup-alpine
+
+### Update stuff
+
+* Change to roling release (edge) - Edit /etc/apk/repostitories
+* Update and upgrade - doas apk upgrade
+* add vim - apk add vim
+* Let's put a nice kernel in this - doas apk add linux-stable
+* For automatic boot from this kernel edit - vim extlinux.conf
+* reboot
+* Add Nice stuff -  apk add htop fastfetch
 
 ### Install Bash
 
