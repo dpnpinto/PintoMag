@@ -41,6 +41,4 @@
 * Install git - doas apk add git
 * clone my repositories - PintoDWM, PintoST and PintoDWMBlocks
 * Install may DWM, ST ,DWMBlocks and some stuff
-* install eza ncurses
-
-
+* install eza ncurses btop firefox  dysk tree
