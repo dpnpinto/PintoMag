@@ -37,9 +37,9 @@
 ### Install Pinto DWM, ST and DWMBlocks
 
 * Install base tools to build software - doas apk add build-base
-* Install development tools for x11 - doas apk add libx11-dev
+* Install development tools for x11 - doas apk add libx11-dev libxft-dev libxinerama-dev
 * Install git - doas apk add git
-* clone my repositories - 
+* clone my repositories - PintoDWM, PintoST and PintoDWMBlocks
 * Install may DWM, ST ,DWMBlocks and some stuff
 
 
