@@ -1,4 +1,4 @@
-# Magalhães Computer a la Pinto
+9# Magalhães Computer a la Pinto
 
 
 ## Steps
@@ -41,4 +41,4 @@
 * Install git - doas apk add git
 * Clone my repositories - PintoDWM, PintoST and PintoDWMBlocks
 * Install my PintoDWM, PintoST ,PintoDWMBlocks
-* Install eza ncurses btop firefox  dysk tree
+* Install eza setxkbmap ncurses btop firefox dysk tree
