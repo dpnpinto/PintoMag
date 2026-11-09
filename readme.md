@@ -33,6 +33,8 @@
 ### Install X.org
 
 * Alpine have a nice script - doas setup-xorg-base
+* Setup udev service - doas setup-devd udev
+* add udev service- doas rc-update add udev boot && doas rc-service udev start
 
 ### Install Pinto DWM, ST and DWMBlocks
 
