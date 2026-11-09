@@ -43,4 +43,4 @@
 * Clone my repositories - PintoDWM, PintoST and PintoDWMBlocks
 * Install my PintoDWM, PintoST ,PintoDWMBlocks
 * Install eza setxkbmap ncurses btop firefox dysk tree
-* Add keybord map for x and font - doas apk add fontconfig ttf-jetbrains-mono-nerd setxkbmap
+* Add keybord map for x and font - doas apk add fontconfig font-jetbrains-mono-nerd setxkbmap
