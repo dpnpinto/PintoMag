@@ -43,3 +43,4 @@
 * Clone my repositories - PintoDWM, PintoST and PintoDWMBlocks
 * Install my PintoDWM, PintoST ,PintoDWMBlocks
 * Install eza setxkbmap ncurses btop firefox dysk tree
+* apk add fontconfig ttf-jetbrains-mono-nerd setxkbmap
