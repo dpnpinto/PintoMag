@@ -28,11 +28,11 @@
 ### Install Bash
 
 * doas apk add bash
-* edit user name and sett the shel to bash - /bin_/bash
+* edit user name and set the shell to bash - /bin/bash
 
 ### Install X.org
 
-* Alpine have a nice script -doas setup-xorg-base
+* Alpine have a nice script - doas setup-xorg-base
 
 ### Install Pinto DWM, ST and DWMBlocks
 
