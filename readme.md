@@ -1,4 +1,4 @@
-9# Magalhães Computer a la Pinto
+# Magalhães Computer a la Pinto
 
 
 ## Steps
