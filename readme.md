@@ -1,5 +1,6 @@
 # Magalhães Computer a la Pinto
 
+Back in 2008, Portugal made history with a humble educational laptop called Magalhães. Now, it’s time for the ultimate software update. Lets build a new Magalhães to sail around the world and fulfill the 2008 prophecy! 🚢💻 dynamic, unstoppable, and upgraded.
 
 ## Steps
 
