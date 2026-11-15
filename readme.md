@@ -30,7 +30,7 @@ PS: BTW with Linux
 
 ### Install Bash
 
-* doas apk add bash
+* doas apk add bash bash-completion
 * edit user name and set the shell to bash - /bin/bash
 
 ### Install X.org
