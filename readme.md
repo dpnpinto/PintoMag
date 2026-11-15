@@ -49,9 +49,6 @@ PS: BTW with Linux
   
 ### Install Pinto DWM, ST and DWMBlocks
 
-* Install base tools to build software - doas apk add build-base
-* Install development tools for x11 - doas apk add libx11-dev libxft-dev libxinerama-dev
-* Install git - doas apk add git
 * Clone my repositories - PintoDWM, PintoST and PintoDWMBlocks
 * Install my PintoDWM, PintoST ,PintoDWMBlocks
 * Install eza setxkbmap ncurses btop firefox dysk tree
