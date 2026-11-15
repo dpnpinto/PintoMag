@@ -38,6 +38,13 @@ PS: BTW with Linux
 * Setup udev service - doas setup-devd udev
 * Alpine have a nice script - doas setup-xorg-base
 
+### Install suckless terminal 
+
+* Install git - doas apk add git
+* Instal the font that I use - doas apk add font-jetbraind-mono-nerd
+* Install base develop tools - doas apk add build-base
+* Install development tools for x11 - doas apk add libx11-dev libxft-dev libxinerama-dev
+*  
 ### Install Pinto DWM, ST and DWMBlocks
 
 * Install base tools to build software - doas apk add build-base
