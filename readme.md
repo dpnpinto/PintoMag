@@ -54,7 +54,7 @@ PS: BTW with Linux
 * Copy sripts to .confog - makedir ~/.config/sripts && cp ~/PintoDWMBlocks/srips/* ~/.config/srips/
 * Install font for emojis - doas apk add font-noto-emoji 
   
-### Install SuckLess Windows Manager (PintoDWM) and DWMBlocks
+### Install SuckLess Windows Manager (PintoDWM)
 
 * Clone my repositorie of DWM - git clone https://github.com/dpnpinto/PintoDWM
 * Install my PintoDWM - cd PintoDWM && doas make clean install
