@@ -60,5 +60,6 @@ Let's do it. Do it yourself. Do it with your son. Just do it and have fun.
 
 * Clone my repositorie of DWM - git clone https://github.com/dpnpinto/PintoDWM
 * Install my PintoDWM - cd PintoDWM && doas make clean install
+* Add font emoji - doas apk add font-noto-emoji
 * Add keybord map for x and font - doas apk add fontconfig setxkbmap
 * Add software that is used in PintoDWM - doas apk add mpv rofi
