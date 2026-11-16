@@ -47,7 +47,7 @@ PS: BTW with Linux
 * Clone my ST - git clone https://github.com/dpnpinto/PintoST
 * Install PintoST - cd PintoST && make clean install
   
-### Install Pinto DWM, ST and DWMBlocks
+### Install SuckLess Windows Manager (PintoDWM) and DWMBlocks
 
 * Clone my repositories - PintoDWM, PintoST and PintoDWMBlocks
 * Install my PintoDWM, PintoST ,PintoDWMBlocks
