@@ -58,6 +58,5 @@ PS: BTW with Linux
 
 * Clone my repositorie of DWM - git clone https://github.com/dpnpinto/PintoDWM
 * Install my PintoDWM - cd PintoDWM && doas make clean install
-* Install eza setxkbmap ncurses btop firefox dysk tree
 * Add keybord map for x and font - doas apk add fontconfig setxkbmap
 * Add software that is used in PintoDWM - doas apk add mpv rofi
