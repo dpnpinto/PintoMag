@@ -53,7 +53,8 @@ Let's do it. Do it yourself. Do it with your son. Just do it and have fun.
 
 * Clone my DWM Bar - git clone https://github.com/dpnpinto/PintoDWMBlocks
 * Install PintoDWMBlocks - cd PintoDWMBlock && doas make clean install
-* Copy sripts to .confog - makedir ~/.config/sripts && cp ~/PintoDWMBlocks/srips/* ~/.config/srips/
+* Copy scripts to .confog - makedir ~/.config/scripts && cp ~/PintoDWMBlocks/scrips/* ~/.config/scrips/
+* Change file permitions to execute - chmod 755 ~/.config/scripts/*
   
 ### Install SuckLess Windows Manager (PintoDWM)
 
