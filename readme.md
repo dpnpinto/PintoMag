@@ -50,14 +50,14 @@ PS: BTW with Linux
 ### Install SuckLess Bar for Windows Manager (PintoDWMBlocks)
 
 * Clone my DWM Bar - git clone https://github.com/dpnpinto/PintoDWMBlocks
-* Install PintoDWM - cd PintoDWMBlock && make clean install
+* Install PintoDWMBlocks - cd PintoDWMBlock && doas make clean install
 * Copy sripts to .confog - makedir ~/.config/sripts && cp ~/PintoDWMBlocks/srips/* ~/.config/srips/
 * Install font for emojis - doas apk add font-noto-emoji 
   
 ### Install SuckLess Windows Manager (PintoDWM) and DWMBlocks
 
-* Clone my repositories - PintoDWM, PintoST and PintoDWMBlocks
-* Install my PintoDWM, PintoST ,PintoDWMBlocks
+* Clone my repositorie of DWM - git clone https://github.com/dpnpinto/PintoDWM
+* Install my PintoDWM - cd PintoDWM && doas make clean install
 * Install eza setxkbmap ncurses btop firefox dysk tree
 * Add keybord map for x and font - doas apk add fontconfig font-noto-emoji font-jetbrains-mono-nerd setxkbmap
 * Add software that is used in PintoDWM - doas apk add mpv rofi
