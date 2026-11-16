@@ -54,7 +54,6 @@ Let's do it. Do it yourself. Do it with your son. Just do it and have fun.
 * Clone my DWM Bar - git clone https://github.com/dpnpinto/PintoDWMBlocks
 * Install PintoDWMBlocks - cd PintoDWMBlock && doas make clean install
 * Copy sripts to .confog - makedir ~/.config/sripts && cp ~/PintoDWMBlocks/srips/* ~/.config/srips/
-* Install font for emojis - doas apk add font-noto-emoji 
   
 ### Install SuckLess Windows Manager (PintoDWM)
 
