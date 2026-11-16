@@ -8,7 +8,7 @@ PS: BTW with Linux
 
 ### Download Alpine
 
-* Go to alpine site - https://www.alpinelinux.org
+* Go to Alpine Linux site - https://www.alpinelinux.org
 * Download the correct iso - https://www.alpinelinux.org/downloads/
 * Make the USB boot, put the iso to the USB - sudo dd status=progress conv=fsync if=Image.iso of=/dev/"usbdevice"
 
