@@ -4,7 +4,9 @@ Back in 2008, Portugal made history with a humble educational laptop called Maga
 
 PS: BTW with Linux
 
-## Steps
+## STEPS
+
+Let's do it. Do it yourself. Do it with your son. Just do it and have fun.
 
 ### Download Alpine
 
