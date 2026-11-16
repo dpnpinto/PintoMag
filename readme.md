@@ -38,7 +38,7 @@ PS: BTW with Linux
 * Setup udev service - doas setup-devd udev
 * Alpine have a nice script - doas setup-xorg-base
 
-### Install Suckless Terminal 
+### Install Suckless Terminal (PintoST)
 
 * Install git - doas apk add git
 * Instal the font that I use - doas apk add font-jetbraind-mono-nerd
