@@ -46,6 +46,13 @@ PS: BTW with Linux
 * Install development libs for x11 - doas apk add ncurses libx11-dev libxft-dev libxinerama-dev
 * Clone my ST - git clone https://github.com/dpnpinto/PintoST
 * Install PintoST - cd PintoST && make clean install
+
+### Install SuckLess Bar for Windows Manager (PintoDWMBlocks)
+
+* Clone my DWM Bar - git clone https://github.com/dpnpinto/PintoDWMBlocks
+* Install PintoDWM - cd PintoDWMBlock && make clean install
+* Copy sripts to .confog - makedir ~/.config/sripts && cp ~/PintoDWMBlocks/srips/* ~/.config/srips/
+* Install font for emojis - doas apk add font-noto-emoji 
   
 ### Install SuckLess Windows Manager (PintoDWM) and DWMBlocks
 
