@@ -62,4 +62,4 @@ Let's do it. Do it yourself. Do it with your son. Just do it and have fun.
 * Install my PintoDWM - cd PintoDWM && doas make clean install
 * Add font emoji - doas apk add font-noto-emoji
 * Add keybord map for x - doas apk add setxkbmap
-* Add software that is used in PintoDWM - doas apk add mpv maim rofi pcmanfm
+* Add software that is used in PintoDWM - doas apk add mpv maim rofi badwolf pcmanfm
