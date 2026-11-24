@@ -70,5 +70,8 @@ Let's do it. Do it yourself. Do it with your son. Just do it and have fun.
 
 ### Install a sound server to Magalhaes
 
+* ...
+* ...
+* ...
 
-
+Tke back fun to computers again. Install Linux. Any Linux ;)
