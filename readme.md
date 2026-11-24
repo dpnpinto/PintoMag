@@ -10,13 +10,15 @@ Let's do it. Do it yourself. Do it with your son. Just do it and have fun.
 
 ### Download Alpine
 
-[Youtube](https://youtu.be/5rLZKwBe8Ug)
+[YouTube](https://youtu.be/5rLZKwBe8Ug)
 
 * Go to Alpine Linux site - https://www.alpinelinux.org
 * Download the correct iso - https://www.alpinelinux.org/downloads/
 * Make the USB boot, put the iso to the USB - sudo dd status=progress conv=fsync if=Image.iso of=/dev/"usbdevice"
 
 ### Install Alpine
+
+[YouTube](https://youtu.be/JwYY06PDaGo)
 
 * Boot from the pre made usb
 * Login with user root and no passwd
