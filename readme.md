@@ -68,7 +68,7 @@ Let's do it. Do it yourself. Do it with your son. Just do it and have fun.
 * Add keybord map for x - doas apk add setxkbmap
 * Add software that is used in PintoDWM - doas apk add mpv maim rofi badwolf pcmanfm
 
-### Install a sound server to Magalhaes
+### Install a sound server for Magalhaes
 
 * ...
 * ...
